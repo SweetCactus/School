@@ -5,12 +5,13 @@ body {
     .text {
         text-align: center;
        }
+
     .mova{
         color: #9ce3f7;
     }
 
 
-    .container{
+    .container {
         height: 350px;
         width: 250px;
         background: linear-gradient(135deg, #eda4ff 0%, #783ba3 100%);
